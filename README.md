@@ -1,3 +1,3 @@
 # StockCrawler
 
-This is web crawler for stock price.
+This is a web crawler for stock price.
